@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.customer {
+  border: 2px solid black;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.cash {
+  font-size: 30px;
+  font-family: Arial, non-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 18px;
+  color: cadetblue;
+  font-weight: bold;
+  padding: 20px 50px;
+  background: aqua;
+  text-transform: uppercase;
+  cursor: pointer;
+}
