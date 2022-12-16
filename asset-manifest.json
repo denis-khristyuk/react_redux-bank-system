@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_redux-bank-system/static/css/main.2839aac1.css",
+    "main.js": "/react_redux-bank-system/static/js/main.fc1638f6.js",
+    "index.html": "/react_redux-bank-system/index.html",
+    "main.2839aac1.css.map": "/react_redux-bank-system/static/css/main.2839aac1.css.map",
+    "main.fc1638f6.js.map": "/react_redux-bank-system/static/js/main.fc1638f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2839aac1.css",
+    "static/js/main.fc1638f6.js"
+  ]
+}
